@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Pegi.unity
+    guid: 3d2184b47908c104daed1f43d5e53017
+  - enabled: 1
+    path: Assets/Scenes/Processing.unity
+    guid: 87d1d64db2247884a9b4aa7a8529f688
+  - enabled: 1
+    path: Assets/Scenes/MenuLoader.unity
+    guid: bd98dd56d8992d7408d925803fa791e2
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e6b6982ca6359094f91792334a5764ac
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: eea8f1d83b55cf048bbd564b5239409a
+  - enabled: 1
+    path: Assets/Scenes/CharacterCreation.unity
+    guid: e38ae88bd098ee743a4050e1bc3d6170
+  - enabled: 0
+    path: Assets/Scenes/Credits.unity
+    guid: 8dfc5fcaff92c294ea82adee02e8a510
+  - enabled: 1
+    path: Assets/Scenes/Medals.unity
+    guid: bacd4aa380500ec4c940fa95e6bc998b
+  - enabled: 1
+    path: Assets/Scenes/Prizes.unity
+    guid: d38991ec3ece637429fb85d506659f1f
+  - enabled: 1
+    path: Assets/Scenes/MinigameLoader.unity
+    guid: 58bc3b45b9178d84eaa95eaa91b52a0d
+  - enabled: 1
+    path: Assets/Scenes/MapLoader.unity
+    guid: 3cbb6d88aad745846a1858e73e6450fb
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 9d1e01b29671a7a4da53316ac8c13aaf
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Puzzle_C#_1.unity
+    guid: 58506f5be31308d4ab6aa94312a12bec
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Puzzle_C#_2.unity
+    guid: 9a6174381c201424d8dd372404eb271f
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Puzzle_HTML_1.unity
+    guid: 4c3d74b6c9481814ca74fe4ddd1d1302
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Puzzle_HTML_2.unity
+    guid: 00e80fe1f33296946b58db9e53a89740
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Puzzle_JS_1.unity
+    guid: 3f68f96c0d6071d4fbdd1b03ff47bb8a
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Puzzle_JS_2.unity
+    guid: 4b0a86c04e7c9e947aa0c7ad74024d26
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
